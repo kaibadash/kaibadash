@@ -4,11 +4,13 @@ I am a software engineer, and I am also a creator :smile:
 I like ...
 
 - making everyone be happy :relaxed:
-- playing the guitar :guitar:
+- playing the guitar :guitar: and DTM
 - programming
 - computer graphics
 - cooking
 - traveling
+- fishing
+- road bike :bike:
 - drinking Japanese sake :sake:
 - :dog:
 
