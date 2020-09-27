@@ -1,6 +1,6 @@
 # kaibadash
 
-I am a software ngineer, and I am also a creator :smile:
+I am a software engineer, and I am also a creator :smile:
 I like ...
 
 - making everyone be happy :relaxed:
@@ -16,10 +16,10 @@ I like ...
 
 - Rails
 - Elasticsearch
+- RDB
 - iOS
 - Kotlin/Java
 - AWS
-- RDB
 - TypeScript/ES2015
 - I used many langages: C, C++, assembly language(X86), Android, Perl, Python, HTML, CSS, sh
 
