@@ -1,9 +1,9 @@
 # kaibadash
 
-I am a software ngineer, and I am also a creator :)
+I am a software ngineer, and I am also a creator :smile:
 I like ...
 
-- making everyone be happy
+- making everyone be happy :relaxed:
 - playing the guitar :guitar:
 - programming
 - computer graphics
@@ -22,3 +22,7 @@ I like ...
 - RDB
 - TypeScript/ES2015
 - I used many langages: C, C++, assembly language(X86), Android, Perl, Python, HTML, CSS, sh
+
+# Contact
+
+kaibadash :dog: gmail
