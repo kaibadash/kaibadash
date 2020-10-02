@@ -23,8 +23,9 @@ I like ...
 - Kotlin/Java
 - AWS
 - TypeScript/ES2015
-- I used many langages: C, C++, assembly language(X86), Android, Perl, Python, HTML, CSS, sh
+- I used many languages: C, C++, assembly language(X86), Android, Perl, Python, HTML, CSS, sh and so on
 
 # Contact
 
 kaibadash :dog: gmail
+https://twitter.com/kaiba
