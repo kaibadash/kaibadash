@@ -19,13 +19,14 @@ I like ...
 - Rails
 - Elasticsearch
 - RDB
-- iOS
+- PHP(CakePHP, Laravel)
 - Kotlin/Java
+- iOS
 - AWS
 - TypeScript/ES2015
 - I used many languages: C, C++, assembly language(X86), Android, Perl, Python, HTML, CSS, sh and so on
 
 # Contact
 
-kaibadash :dog: gmail
-https://twitter.com/kaiba
+- kaibadash :dog: gmail
+- https://twitter.com/kaiba
