@@ -10,21 +10,19 @@ I like ...
 - cooking
 - traveling
 - fishing
-- road bike :bike:
-- drinking Japanese sake :sake:
-- :dog:
+- :bike: :sake: :dog:
 
 # Skills
 
 - Rails
 - Elasticsearch
-- RDB
+- RDB design
 - PHP(CakePHP, Laravel)
 - Kotlin/Java
 - iOS
 - AWS
 - TypeScript/ES2015
-- I used many languages: C, C++, assembly language(X86), Android, Perl, Python, HTML, CSS, sh and so on
+- I've used many languages: C, C++, assembly language(X86), Android, Perl, Python, HTML, CSS, sh and so on
 
 # Contact
 
