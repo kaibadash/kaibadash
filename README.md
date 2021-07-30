@@ -10,7 +10,7 @@ I like ...
 - cooking
 - traveling
 - fishing
-- :bike: :sake: :dog:
+- :bike: :sake: :dog: :camera:
 
 # Skills
 
